@@ -1,0 +1,17 @@
+{
+  "name": "nuxt-programmatic-usage",
+  "private": true,
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "devDependencies": {
+    "@nuxt/devtools": "latest",
+    "@nuxt/kit": "^3.8.1",
+    "@nuxt/schema": "^3.8.1",
+    "@vite-pwa/nuxt": "^0.1.1",
+    "nuxt": "^3.8.1",
+    "vue": "^3.3.4",
+    "vue-router": "^4.2.5"
+  },
+  "dependencies": {}
+}
